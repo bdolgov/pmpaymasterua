@@ -13,7 +13,6 @@ wget https://raw.githubusercontent.com/bdolgov/pmpaymasterua/master/installer.sh
 * Метод вызова URL страницы неуспешной оплаты: post
 * URL страницы результата оплаты: https://*АдресВашегоБиллинга*/mancgi/paymasteruaresult
 * Метод вызова URL страницы результата оплаты: post
-* Метод формирования контрольной подписи: sha256
 * Отправлять предзапрос (рекомендовано): да
 * Проверять уникальность номера счета: нет
 * Повторно отправлять Payment Notification при сбоях : да
