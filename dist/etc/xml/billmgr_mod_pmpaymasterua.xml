@@ -60,6 +60,7 @@
 			<msg name="pm_liqpay">LiqPay</msg>
 			<msg name="pm_kyivstar">Київстар</msg>
 			<msg name="pm_wmmobile">x20 WebMoney моб. платежи</msg>
+			<msg name="pm_bitcoin">Bitcoin</msg>
 		</messages>
 	</lang>
 </mgrdata>

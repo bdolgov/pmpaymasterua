@@ -32,7 +32,8 @@ class Paymasterua : public Module
 				{20, "privat24"},
 				{19, "liqpay"},
 				{23, "kyivstar"},
-				{2, "wmmobile"}
+				{2, "wmmobile"},
+				{29, "bitcoin"}
 			};
 			for (auto i : methods)
 			{
